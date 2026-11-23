@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: KidneyClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/sadumtarun/Kidney-Health-Analysis-System
+Author: sadumtarun
+Author-email: tarunsadum@gmail.com
+Project-URL: Bug Tracker, https://github.com/sadumtarun/Kidney-Health-Analysis-System/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
+
+# Kidney-Health-Analysis-System
