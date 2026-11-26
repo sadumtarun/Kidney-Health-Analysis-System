@@ -1,4 +1,12 @@
 research/Kidney CT Scan File.zip
 
-artifacts/*
-.gitignore
+# Artifacts folder
+artifacts/
+
+# Ignore ZIP datasets
+*.zip
+
+# Ignore artifacts folder
+artifacts/
+
+

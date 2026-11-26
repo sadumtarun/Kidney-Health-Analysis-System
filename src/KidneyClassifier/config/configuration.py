@@ -32,3 +32,4 @@ class ConfigurationManager:
         )
 
         return data_ingestion_config
+
