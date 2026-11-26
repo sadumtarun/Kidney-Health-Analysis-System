@@ -3,6 +3,6 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://drive.google.com/file/d/1VMU6s_d0OaFdqu4OTubiUOL62hCxXW0z/view?usp=sharing
+  source_URL: https://drive.google.com/file/d/1zw63lweNjpzIBca1ygsOlHvyP81wzNfl/view?usp=sharing
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
